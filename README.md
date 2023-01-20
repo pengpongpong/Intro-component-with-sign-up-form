@@ -35,7 +35,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://github.com/pengpongpong/Intro-component-with-sign-up-form)
-- Live Site URL: [Add live site URL here](https://intro-component-with-sign-up-form-nine-lac.vercel.app/)
+- Live Site URL: [Add live site URL here](https://incredible-sprinkles-da1ac5.netlify.app/)
 
 
 ## My process
